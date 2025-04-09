@@ -75,6 +75,8 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chintan-harkhani&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
