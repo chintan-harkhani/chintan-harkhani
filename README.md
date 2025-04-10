@@ -4,28 +4,38 @@
 
 ###
 
-<h1 align="center">Hi , I'm Chintan Hakkhani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chintan Harkhani</h1>
 
 ###
 
-<h4 align="center">BCA | Professional Backend Developer | NodeJS Developer</h4>
+<h3 align="center">BCA | Professional Backend Developer | NodeJS Developer</h3>
 
 ###
 
-<p align="center">This is Chintan Harkhani, a Backend Developer and a Tech Enthusiast,<br>who is obsessed with the idea of improving himself and is eager for a platform to grow and excel.<br>Passionate about building scalable systems and clean APIs with Node.js.</p>
+<p align="center">
+  <em>
+    This is Chintan Harkhani, A <b>Backend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.<br>
+	  Passionate about building scalable systems and clean APIs with Node.js.
+  </em> 
+  <br>
+</p>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan-harkhanid&label=Profile%20views&color=0e75b6&style=flat" alt="chintan-harkhani" /> </p>
 <div align="left">
+	<img align="right" height="300" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg"  />
 </div>
 
 ###
 
-<p align="left">Talking about Personal Stuffs...<br><br>✔ Pronouns: freelancer😉<br>✔ I’m currently learning Python & Node js<br>✔ I’m looking to collaborate with any Open - Source contribution<br>✔ I’m looking for help for learning Unreal Engin 5<br>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>✔ Fun fact : At The time of Stress coding, I use to be in half sleeping mode</p>
+<p align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Talking about Personal Stuffs...<br><br>✔ Pronouns: freelancer😉<br>✔ I’m currently learning Python & Node js<br>✔ I’m looking to collaborate with any Open - Source contribution<br>✔ I’m looking for help for learning Unreal Engin 5<br>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>✔ Fun fact : At The time of Stress coding, I use to be in half sleeping mode</p><br><br><br><br>
 
 ###
 
-<img align="right" height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg"  />
+
 
 ###
 
@@ -59,10 +69,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+	<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+	<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -71,11 +83,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
+	<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chintan-harkhani&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chintan-harkhani&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chintan-harkhani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ###
-## 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=chintan-harkhani&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 A Snake Eating my Contributions Graph
